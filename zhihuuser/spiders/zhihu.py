@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import json
-
 from scrapy import Spider, Request
 
 from zhihuuser.items import UserItem
